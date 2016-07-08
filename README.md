@@ -6,4 +6,4 @@ regarding contributing and issues.
 
 Is based in the official Docker image for Joomla.
 
-* Working first on PHP7 version
+* PHP7 + Apache DockerFile - Ready
