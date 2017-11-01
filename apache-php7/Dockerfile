@@ -1,4 +1,4 @@
-FROM php:7.0-apache
+FROM php:apache
 MAINTAINER Ignacio Salcedo <ignacio@isalcedo.com> (@pawrubble)
 
 # Enable Apache Rewrite Module
